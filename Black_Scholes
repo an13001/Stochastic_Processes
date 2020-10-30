@@ -40,3 +40,6 @@ def Put_Option(S,t,K,sigma,T,r):
 print(Call_Option(50,0,100,0.25,1,0.05))
 print(Put_Option(50,0,100,0.25,1,0.05))
 
+
+
+ 
